@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "679C1DBD-FD20-4800-8207-47CC8DD48BF2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E9D28AC-E1B5-4B92-AF8F-68571D859B11"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API/UtilServices.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getEndpoint(fromName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9E9D28AC-E1B5-4B92-AF8F-68571D859B11 - d71dfda6c41cb31c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MobiesDBMVVM.UtilServices.getEndpoint(fromName: Swift.String) -&gt; Swift.Optional&lt;MobiesDBMVVM.APIEndpointModel&gt;"
+                  moduleName = "MobiesDBMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/MobiesDBMVVM/API/UtilServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "2776">
+               </Location>
+               <Location
+                  uuid = "9E9D28AC-E1B5-4B92-AF8F-68571D859B11 - d71dfda6c41cb31c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MobiesDBMVVM.UtilServices.getEndpoint(fromName: Swift.String) -&gt; Swift.Optional&lt;MobiesDBMVVM.APIEndpointModel&gt;"
+                  moduleName = "MobiesDBMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/MobiesDBMVVM/API/UtilServices.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "2780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A11D1703-E823-4B37-9DC6-D7E5E52C3EB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API/webServicesTopRates.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A11D1703-E823-4B37-9DC6-D7E5E52C3EB0 - 32adb81513336ed1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MobiesDBMVVM.webServicesTopRates.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;MobiesDBMVVM.Result&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MobiesDBMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/MobiesDBMVVM/API/webServicesTopRates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "A11D1703-E823-4B37-9DC6-D7E5E52C3EB0 - 32adb81513336ed1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MobiesDBMVVM.webServicesTopRates.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;MobiesDBMVVM.Result&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MobiesDBMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/MobiesDBMVVM/API/webServicesTopRates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD61C39A-A31B-4A87-B352-21759FE58BBF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API/webServicesTopRates.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD61C39A-A31B-4A87-B352-21759FE58BBF - 859a811be4174877"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MobiesDBMVVM.webServicesTopRates.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;MobiesDBMVVM.Result&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MobiesDBMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/MobiesDBMVVM/API/webServicesTopRates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "AD61C39A-A31B-4A87-B352-21759FE58BBF - 32adb81513336e93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MobiesDBMVVM.webServicesTopRates.getArticles(completion: (Swift.Optional&lt;Swift.Array&lt;MobiesDBMVVM.Result&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MobiesDBMVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/MobiesDBMVVM/API/webServicesTopRates.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0537E050-C595-4BA8-953D-BC13924DE216"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "API/webServicesTopRates.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "getArticles(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FE87E78-3091-41E3-85B2-16BA426D4D59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Views/TopRates/TopRatesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
